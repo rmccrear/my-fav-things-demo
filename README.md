@@ -13,7 +13,7 @@ This is a website about my favorite things. It contains words and text in HTML a
 ## Roadmap
 
 - [x] Headers (h1, h2)
-- [ ] CSS background
+- [x] CSS background
 - [ ] JavaScript alert
 - [ ] Three changes with commits
 
