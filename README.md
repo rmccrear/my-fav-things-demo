@@ -19,7 +19,7 @@ This is a website about my favorite things. It contains words and text in HTML a
 
 ## Contact
 
-Author: 
+Author: Robert McCreary robert.mccreary@codex.academy
 
 ## Acknowledgements
 
